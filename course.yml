@@ -4,6 +4,7 @@ difficulty_level: 0
 programming_language: r
 description: "This is replica of Introduction to R course at DataCamp. Testing the
   teaching grounds of wonderful and interactive DataCamp environment."
+from: "r-base-prod:27"
 datasets:
   all_wars_matrix.RData: All wars matrix
   chapter3.R: Chapter3
