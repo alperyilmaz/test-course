@@ -1,7 +1,6 @@
-id: 58
 title: Introduction to R
 instructors:
- - jonathan+author@datacamp.com
+ - author@datacamp.com
 time_needed: 4 hours
 difficulty_level: 0
 programming_language: r
@@ -15,4 +14,3 @@ description: "In this introduction to R, you will master the basics of this beau
   course today!"
 from: "r-base-prod:27"
 runtime_config: minimal
-practice_pool_id: 106
