@@ -1,8 +1,14 @@
 title: Introduction to R Replica
-instructors:
- - author@datacamp.com
 time_needed: 4 hours
 difficulty_level: 0
 programming_language: r
-description: "This is replica of Introduction to R course at DataCamp. Testing
- the teaching grounds of wonderful and interactive DataCamp environment."
+description: "This is replica of Introduction to R course at DataCamp. Testing the
+  teaching grounds of wonderful and interactive DataCamp environment."
+from: "r-base-prod:27"
+datasets:
+  all_wars_matrix.RData: All wars matrix
+  chapter3.R: Chapter3
+  chapter5.R: Chapter5
+  chapter6.R: Chapter6
+  planets.RData: Planets
+  shining_list.RData: Shining list
